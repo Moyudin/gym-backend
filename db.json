@@ -1,0 +1,11 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "message": "I'm interested in personal training sessions.",
+      "workoutType": "Strength Training"
+    }
+  ]
+}
